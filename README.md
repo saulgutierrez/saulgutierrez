@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/saulgutierrez/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saulgutierrez&showicons=true&theme=transparent" />
+
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=saulgutierrez&theme=transparent&hide_border=true" />
 </a>
-<a href="https://github.com/saulgutierrez/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulgutierrez&layout=compact&langs_count=8&card_width=320&theme=transparent&count_weight=0.5&size_weight=0.5" />
+<a href="">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulgutierrez&layout=pie&theme=transparent&card_width=320" />
 </a>
 <br>
 
