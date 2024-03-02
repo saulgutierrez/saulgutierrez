@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=saulgutierrez&theme=transparent&hide_border=true" />
 </a>
 <a href="">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulgutierrez&layout=pie&theme=transparent&card_width=320&size_weight=0.5&count_weight=0.5&langs_count=10" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulgutierrez&theme=transparent&card_width=320&size_weight=0.5&count_weight=0.5&langs_count=8" />
 </a>
 <br>
 
